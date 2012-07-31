@@ -1,5 +1,5 @@
 ﻿(function ($) {
-
+    //Testing Update to see if this GIT commit works.
     $.fn.lazyloader = function (options) {
         var settings = {
             threshold: 0,
